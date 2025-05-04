@@ -1,4 +1,4 @@
-IT Clash - Track Coding
+# IT Clash - Track Coding
 
 - Data Structure problems ( 20% )
 Primitive data type in Python, Arrays, Strings, Linked Lists, Stacks, Queues, Priority Queues, Tree, Spanning Tree and Graph
@@ -13,7 +13,7 @@ Number Theory, Sets, Functions and Relations, Complex Number, Calculus, Prime Nu
 การแก้ไขปัญหาตามสถานการณ์สมมติที่โจทย์กำหนดให้ โดยใช้ความรู้พื้นฐาน Python
 
 
-Details
+## Details
 - โจทย์แต่ละข้อให้เขียนโปรแกรมด้วยภาษา Python ในการแก้โจทย์ข้อนั้น ๆ
 - โจทย์แต่ละข้อจะมีการให้คะแนนแบบ Partial Scoring โดยแบ่งเป็น
     Testcase Score ( 10% ของคะแนนในโจทย์ ) คือ คะแนนความถูกต้องของชุดทดสอบในข้อนั้น ๆ
