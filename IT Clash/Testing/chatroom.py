@@ -7,7 +7,7 @@ def chatroom():
     sep_line = 0
 
     while sep_line != 2:
-        event = input().strip()
+        event = input()
         if event == "---":
             sep_line += 1
             continue
@@ -24,7 +24,7 @@ def chatroom():
     print_status(users)
 
     while sep_line != 3:
-        event = input().strip()
+        event = input()
         if event == "---":
             sep_line += 1
             continue
