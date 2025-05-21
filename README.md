@@ -1,4 +1,5 @@
-# IT Clash - Track Coding
+# IT Clash - Competitive Programming at School of Infomation and Technology, KMITL.
+## Track Coding
 
 - Data Structure problems ( 20% )
 Primitive data type in Python, Arrays, Strings, Linked Lists, Stacks, Queues, Priority Queues, Tree, Spanning Tree and Graph
